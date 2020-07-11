@@ -9,9 +9,6 @@ Cửa sổ mới xuất hiện, gõ vào vùng màu đen (Terminal) bên phải 
 wget -O wgcf https://github.com/ViRb3/wgcf/releases/download/v1.0.5/wgcf_1.0.5_linux_386; chmod +x wgcf
 
 
-Check tool syntax
-Vậy là mình đã down được tool này về để chạy rồi. Tất cả các command được support có thể tham khảo ở repository chính thức của tool https://github.com/ViRb3/wgcf hoặc copy lệnh dưới vào terminal
-
 ./wgcf
 
 

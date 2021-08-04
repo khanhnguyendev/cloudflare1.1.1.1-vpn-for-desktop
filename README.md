@@ -1,5 +1,5 @@
 Tạo Repl workspace
-Vào trang https://repl.it/ -> Start coding -> BASH -> Create repl (Như hình minh họa)
+Vào trang https://repl.it/ -> Start coding -> BASH -> Create repl
 
 
 
